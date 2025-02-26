@@ -3,6 +3,7 @@
 Raspberry Pi Starter Edition HAT (i2c breakout and single spi core1262 only)
 
 SX1262 with TXCO
+
 I2C pins groove pinout
 
 
@@ -13,12 +14,17 @@ I2C pins groove pinout
 Currently Tested on
 
 BPI-R4
+
 Raspberry PI 3A
 
 Next
+
 ESP32 One
+
 RP2040-Pi-Zero
+
 Milk-v DUO/DUO256
+
 Milk-v DUOS
 
 BananaPi-BPI-R4-sx1262.yaml
