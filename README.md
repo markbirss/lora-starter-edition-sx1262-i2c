@@ -1,8 +1,11 @@
-# lora-starter-edition-sx1262-i2c
+# Raspberry Pi Starter Edition HAT
 Raspberry Pi Starter Edition HAT (i2c breakout and single spi core1262 only)
 
 SX1262 with TXCO
 I2C pins groove pinout
+
+
+![337162122407936-Produce_DanZhi SMT_Snapshot Top 3441618A_Y41 SMT025021360898 (1)](https://github.com/user-attachments/assets/db96b5ef-8181-4f72-9fa0-d28cf9fad821)
 
 ![image](https://github.com/user-attachments/assets/6c572e8a-0aeb-484d-b47b-389315f6ab72)
 
