@@ -1,4 +1,5 @@
-# Raspberry Pi Starter Edition HAT
+# Raspberry Pi Starter Edition HAT with TXCO
+
 Raspberry Pi Starter Edition HAT (i2c breakout and single spi core1262 only)
 
 SX1262 with TXCO
