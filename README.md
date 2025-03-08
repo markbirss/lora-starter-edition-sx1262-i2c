@@ -17,11 +17,12 @@ BPI-R4
 
 Raspberry PI 3A
 
-Next
-
 ESP32 One
 
 RP2040-Pi-Zero
+
+
+Next
 
 Milk-v DUO/DUO256
 
