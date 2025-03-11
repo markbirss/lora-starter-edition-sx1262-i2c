@@ -21,6 +21,8 @@ ESP32 One
 
 RP2040-Pi-Zero
 
+Raxda Rock 2F
+
 
 Next
 
