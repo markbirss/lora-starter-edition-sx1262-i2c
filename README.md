@@ -11,24 +11,20 @@ I2C pins groove pinout
 
 ![image](https://github.com/user-attachments/assets/6c572e8a-0aeb-484d-b47b-389315f6ab72)
 
-Currently Tested on
+## Currently 
 
-BPI-R4
+Tested on
 
-Raspberry PI 3A
-
-ESP32 One
-
-RP2040-Pi-Zero
-
-Raxda Rock 2F
-
-
-Next
-
-Milk-v DUO/DUO256
-
-Milk-v DUOS
+BOARD | Tested OK |
+|:--|:--|
+| Raspberry PI 3A | Yes |
+| BPI-R4 | Yes | 
+| ESP32 One | Yes |
+| RP2040-Pi-Zero | Yes |
+| Raxda Rock 2F | Yes |
+| Milk-v DUO | Still todo |
+| Milk-v DUO256 | Still todo |
+| Milk-v DUOS | Still todo |
 
 BananaPi-BPI-R4-sx1262.yaml
 ```
