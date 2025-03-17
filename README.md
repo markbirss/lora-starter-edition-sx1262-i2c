@@ -23,7 +23,7 @@ BOARD | Tested OK |
 | RP2040-Pi-Zero | Yes |
 | Raxda Rock 2F | Yes |
 | Milk-v DUO | Still todo |
-| Milk-v DUO256 | Still todo |
+| Milk-v DUO256 | Yes - with new adapter board in ARM64 mode |
 | Milk-v DUOS | Still todo |
 
 BananaPi-BPI-R4-sx1262.yaml
