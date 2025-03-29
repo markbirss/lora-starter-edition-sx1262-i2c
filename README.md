@@ -28,6 +28,7 @@ BOARD | Tested OK |
 
 BananaPi-BPI-R4-sx1262.yaml
 ```
+# https://github.com/markbirss/lora-starter-edition-sx1262-i2c
 Lora:
   Module: sx1262  # BananaPi-BPI-R4 SPI via 26p GPIO Header
 ##  CS: 28
@@ -41,6 +42,7 @@ Lora:
 
 lora-starter-edition-sx1262-i2c.yaml
 ```
+# https://github.com/markbirss/lora-starter-edition-sx1262-i2c
 # https://www.waveshare.com/core1262-868m.htm
 Lora:
   Module: sx1262  # Starter Edition SX1262 I2C Raspberry Pi HAT
