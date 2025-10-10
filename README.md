@@ -17,6 +17,7 @@ Tested on
 
 BOARD | Tested OK |
 |:--|:--|
+| Raspberry Pi Model B Rev 1 | Yes |
 | Raspberry PI 3A | Yes |
 | BPI-R4 | Yes | 
 | ESP32 One | Yes |
